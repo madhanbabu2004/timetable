@@ -114,8 +114,8 @@ Execute the program
 </html>
 ```
 # OUPUT
-![OUTPUT](http://madhanbabu.student.saveetha.in:8000/static/images/ou.png?raw=true)
-
+![output](./ou.png)
+![output](./log.png)
 # HTML VALIDATOR
 
 # RESULT
